@@ -1,4 +1,6 @@
 # LoveRKN — разблокировка Roblox и связанных сервисов
+https://img.shields.io/badge/Fork-Flowseal-blue https://img.shields.io/badge/License-MIT-green
+https://img.shields.io/badge/LoveRKN-red
 
 LoveRKN — это форк проекта Flowseal/zapret-discord-youtube, адаптированный специально для разблокировки Roblox и всех связанных с ним сервисов на территории, где доступ к ним ограничен. Проект помогает обойти ограничения и предоставляет стабильное соединение с игровыми серверами Roblox, а также с сопутствующими сервисами.
 
